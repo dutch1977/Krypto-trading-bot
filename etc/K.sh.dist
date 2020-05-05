@@ -56,12 +56,12 @@ UI_OPENPORT=3000
 #API_EXCHANGE=FCOIN
 #API_EXCHANGE=KRAKEN
 #API_EXCHANGE=POLONIEX
-API_EXCHANGE=NULL
+API_EXCHANGE=KRAKEN
 #  ▌____________________________________________________.
 #  █ API_CURRENCY                                       .
 #  ██ - Allows any existent currency pair (see the website of the exchange), the format must be "AAA/ZZZ".
 #API_CURRENCY=BTC/EUR
-API_CURRENCY=BTC/USD
+API_CURRENCY=BTC/LTC
 #  ▌____________________________________________________.
 #  █ API_KEY                                            .
 #  ██ - Allows any valid API KEY (see the website of the exchange).
